@@ -1,0 +1,14 @@
+http://www.nacis.org/naturalearth/10m/physical/ne_10m_lakes.zip
+http://www.nacis.org/naturalearth/10m/physical/ne_10m_ocean.zip
+http://www.nacis.org/naturalearth/10m/physical/ne_10m_playas.zip
+http://www.nacis.org/naturalearth/110m/physical/ne_110m_lakes.zip
+http://www.nacis.org/naturalearth/110m/physical/ne_110m_ocean.zip
+http://www.nacis.org/naturalearth/50m/physical/ne_50m_lakes.zip
+http://www.nacis.org/naturalearth/50m/physical/ne_50m_ocean.zip
+http://www.nacis.org/naturalearth/50m/physical/ne_50m_playas.zip
+http://www.nacis.org/naturalearth/50m/cultural/ne_50m_urban_areas.zip
+http://www.nacis.org/naturalearth/10m/cultural/ne_10m_urban_areas.zip
+http://www.nacis.org/naturalearth/10m/cultural/ne_10m_parks_and_protected_lands.zip
+http://data.openstreetmapdata.com/land-polygons-split-3857.zip
+http://data.openstreetmapdata.com/simplified-land-polygons-complete-3857.zip
+http://data.openstreetmapdata.com/water-polygons-split-3857.zip
