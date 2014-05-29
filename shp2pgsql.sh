@@ -1,13 +1,14 @@
 #!/bin/sh
 #
 # After unpacking the contents of each zip archive, pipe this script to psql.
+# example:
+# bash shp2pgsql.sh | psql -U osm -d osm
 #
 shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_10m_lakes.shp ne_10m_lakes
 shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_10m_ocean.shp ne_10m_ocean
 shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_10m_playas.shp ne_10m_playas
 shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_110m_lakes.shp ne_110m_lakes
 shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_110m_ocean.shp ne_110m_ocean
-shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_110m_ocean.shp ne_110m_ocean.shp
 shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_50m_lakes.shp ne_50m_lakes
 shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_50m_ocean.shp ne_50m_ocean
 shp2pgsql -dID -s 900913 -W Windows-1252 -g the_geom ./data/ne_50m_playas.shp ne_50m_playas
