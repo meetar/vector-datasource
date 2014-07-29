@@ -73,7 +73,7 @@ sudo apt-get -y install git-core
 # If you are on Windows, you may need to start the ssh-agent service
 # to enable ssh forwarding every time you start a new bash session,
 # so the git ssh authentication will work
-# http://stackoverflow.com/questions/3669001/getting-ssh-agent-to-work-with-git-run-from-windows-command-shell/15870387#15870387
+# http://stackoverflow.com/a/19792331/738675
 
 # get the datasource
 #git clone git@github.com:meetar/vector-datasource.git
